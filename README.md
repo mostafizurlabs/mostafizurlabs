@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Mostafizur Rahman
 🚀 Currently learning and building projects in Full-Stack Web Development.<br>💻 Focusing on JavaScript, Tailwind CSS, TypeScript, React, and Next.js.<br>🛠️ Improving my skills through practical projects and hands-on learning.<br>🤝 Open to beginner-friendly collaborations and open-source projects where I can learn, contribute, and grow.<br>📩 Feel free to reach out to me: mostafizurrahmanshakibbd@gmail.com
 
 
